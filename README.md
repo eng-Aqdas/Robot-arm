@@ -3,10 +3,15 @@
 Stl files of a robot arm that can be used for 3d printing.
 
 The following describes how to join the parts of the robotic arm to make up the initial position of it:
+
 1- the base should be the first part to work on
+
 2- place the waist right over the base
+
 3- attach the first arm to the waist
+
 4- attach the second arm to the first one
+
 5- join the gripper to the arm
 
 Angles and align should be considered here.
