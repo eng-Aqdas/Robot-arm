@@ -1,6 +1,6 @@
 # Robot-arm
 
-Stl files of a robot arm that can be used for 3d printing.
+Stl files of a robot arm that can be used for 3D printing.
 
 The following describes how to join the parts of the robotic arm to make up the initial position of it:
 
@@ -25,7 +25,7 @@ Elbow: 90 degrees Wrist: 90 degrees
 Gripper: 0 degrees (closed)
 
 
-ملف بصيغة stl لذراع روبوتية والتي يمكن الاستفادة منها بالطباعة الثلاثية الابعاد.
+ملف لذراع روبوتية والتي يمكن الاستفادة منها في الطباعة الثلاثية الأبعاد.
 
 خطوات تركيب قطع اليد الروبوتية للحصول على الوضعية البدائية لها:
 
